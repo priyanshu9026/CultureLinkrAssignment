@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+  
+# Build directories
+dist/
+build/
+
+# Local development files
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Editor & system-specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.log
+*.lock
